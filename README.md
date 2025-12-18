@@ -3,7 +3,8 @@ This repository presents an end to end Azure Data Engineering pipeline implement
 
 ## Architecture Overview
 
-<img width="2000" height="899" alt="image" src="https://github.com/user-attachments/assets/24550d9d-ca1e-4d4c-8142-cf5fc8a2f7b9" />
+<img width="2000" height="899" alt="image" src="https://github.com/user-attachments/assets/c191a93f-06b2-4d2a-90cc-be1119b51e7e" />
+
 
 The pipeline is designed using the following Azure services:
 * Azure Data Factory for orchestration and ingestion
